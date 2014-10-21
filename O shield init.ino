@@ -6,3 +6,4 @@ void setup(){
 		pinMode(i, OUTPUT);
 	}
 	Serial.begin(9600);
+}
